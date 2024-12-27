@@ -6,22 +6,21 @@ Welcome to the HTML Folder! HTML (HyperText Markup Language) is the standard lan
 
 
 ## Folder Directory: 
-Here is the folder list for each project:
 
 ### Beginner: 
-The Beginner folder has all the projects that are based on starting concepts including text, headings and etc. 
+The Beginner folder has all the projects I make on the beginner level. 
 
 To view all the Beginner Projects, you can click here: 
 [Beginner Folder](/HTML/Beginner/)
 
 ### Intermediate: 
-The Intermediate folder has projects that are based on concepts such as tables, lists and links. 
+The Intermediate folder has all the projects I make on the intermediate level. 
 
 To view all the Intermediate Projects, you can click here: 
 [Intermediate Folder](/HTML/Intermediate/)
 
 ### Professional: 
-The Professional folder has projects are based on concepts such as basic articles, navigation pages and single web pages
+The Professional folder has all the projects I make on the professional level.
 
 To view all the Professional Projects, you can click here: 
 [Professional Folder](/HTML/Professional/)
