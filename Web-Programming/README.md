@@ -1,35 +1,29 @@
-# Web-Development Folder
+# Web-Programming Folder 
 <em>by Kalecia McNeal</em>
 
-## About:  
-Welcome to the Web Programming sub-directory! Here you can find the back-end of Web Design with all of my software programming projects. Each folder focuses on a specific language and its importance to the web. 
+Welcome to the Web Programming Folder where you will find all of my coding projects in various front-end languages such as HTML, CSS, and JS. 
 
+## About: 
+Each folder will have projects based on difficulty level in each language. In the project folder, there will be the files needed along with a little README detailing the process. 
 
-## Folder Directory: 
+## Folder List: 
+Here is the folder list for each section of the Web Programming folder followed with descriptions: 
 
-### HTML5:
-HTML is the basic structure of the webpage (document) for the web browser to read the information. 
+### Beginner: 
+This folder contains all of the basic and beginner projects. Each project in this folder is designed to build solid foundations in coding languages. For more info, you can read the Beginner README here: [Beginner README](/Beginner/README.md "My Beginner README")
 
-To read more about about HTML and view the projects within the folder you can click here: 
-[HTML Folder](/Web-Programming/HTML/ "My HTML Folder")
+### Intermediate:
+Every project is this folder is designed to build upon the solid foundations from beginner knowledge. For more info, you can read the Intermediate README here: [Intermediate README](/Intermediate/README.md "My Intermediate README")
 
-### CSS3:
-CSS is the design layer of the web page for the web browser to paint the web page. 
+### Professional:
+Finally, in the Professional folder you will see projects that are based on real-world web pages. For more info, you can read the Professional README here: [Professional README](/Professional/README.md "My Professional README")
 
-To read more about about HTML and view the projects within the folder you can click here: 
-[CSS Folder](/Web-Programming/CSS/ "My CSS Folder")
+## Closing Note 
+Thank you for viewing this part of my online Web Development Portfolio. For more questions about each of the folders you can find me on LinkedIn or contact me by email. 
 
-### JavaScript6:
-JavaScript is the business layer of the webpage for the web browser to add animation to the website.
+## Connect with Me!
+### My LinkedIn:
+[My LinkedIn](https://www.linkedin.com/in/kalecia-mcneal/)
 
-To read more about about HTML and view the projects within the folder you can click here: 
-[JavaScript Folder](/Web-Programming/JavaScript/ "My JavaScript Folder")
-
-## Closing Note:  
-Otherwise than that, thank you for viewing this folder! To learn more about how I make each project or ask for more clarification you can contact me below: 
-
-### Email:  
+### My Email: 
 [Email Me](mailto:kaleciamcneal@gmail.com)
-
-### LinkedIn: 
-[Connect with Me](https://www.linkedin.com/in/kalecia-mcneal/)
