@@ -23,7 +23,8 @@ Here is the README for the Single Pages folder: [Single Pages README](/Single-Pa
 
 ### Animations: 
 This folder contains all of my projects that are animated. <br>
-Here is the README for the Animations folder: 
+Here is the README for the Animations folder:
+[Animations README](/Animations/README.md)
 
 ## Closing Note 
 Thank you for viewing this part of my online Web Development Portfolio. For more questions about each of the folders you can find me on LinkedIn or contact me by email. 
