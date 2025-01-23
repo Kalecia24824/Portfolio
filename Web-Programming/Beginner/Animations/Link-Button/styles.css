@@ -1,0 +1,23 @@
+body{
+    background-color: #910fbd;
+    text-align: center;
+}
+
+a {
+text-decoration: none;
+display: inline-block;
+margin-top: 33vh;
+color: #e085ff;
+font-family: 'Lucida Sans', sans-serif;
+font-size: 30px;
+font-weight: 600;
+padding: 1rem;
+border-radius: 50px;
+box-shadow: inset 0 0 0 0 #f4c3ff; 
+transition: color .5s ease-in-out, box-shadow .5s ease-in-out; /*The transition effect lies here. Wanted to make it slower so I did 5 seconds*/
+}
+
+a:hover {
+color: #ff57f9;
+box-shadow: inset 300px 0 0 0 #ba23db; /*This is the background color you will see after the hover*/
+}

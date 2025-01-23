@@ -1,4 +1,4 @@
-# Single Page Folder 
+# Animations Folder 
 <em>by Kalecia McNeal</em>
 
 Welcome to the Animations Folder! Here you can find all of my projects that are based on animations.
@@ -9,11 +9,9 @@ Here in this folder, you will find these projects are based on pages that are or
 ## Project List: 
 Here is the list of projects I have done so far in this folder: 
 
-- Heart Button: This is a pulsing heart button with a circle effect 
+- Link Button: A stylized button for user to view when they hover over it 
 
-- Loading Screen: A screen that loads 
-
-- Rainbow Card: A rainbow card where you can flip it
+- Heart Circle: A pulsing circle with a heart in the center
 
 ## Connect with Me!
 Thank you for viewing this section of my Beginner Folder. For more info, you can connect or chat with me here: 

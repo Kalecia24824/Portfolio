@@ -9,9 +9,14 @@ In this folder, you find basic projects that use beginner coding elements to bui
 ## Folder List: 
 Here is the folder list for each section in the Beginner Folder: 
 
-### Card Components:  
+### Animations: 
+This folder contains all of my projects that are animated. <br>
+Here is the README for the Animations folder:
+[Animations README](/Animations/README.md)
+
+### Cards:  
 This folder contains all of the portfolio projects based on web page cards. <br>
-Here is the README for the Card Component folder: [Card Component README](/Card-Components/README.md)
+Here is the README for the Card Component folder: [Card Component README](/Cards/README.md)
 
 ### Forms: 
 This folder contains all forms based on collecting info from users. <br>
@@ -20,11 +25,6 @@ Here is the README for the Form folder: [Forms README](/Forms/README.md)
 ### Single Pages:
 This folder contains various web pages user encounter on a daily basis. <br>
 Here is the README for the Single Pages folder: [Single Pages README](/Single-Pages/README.md)
-
-### Animations: 
-This folder contains all of my projects that are animated. <br>
-Here is the README for the Animations folder:
-[Animations README](/Animations/README.md)
 
 ## Closing Note 
 Thank you for viewing this part of my online Web Development Portfolio. For more questions about each of the folders you can find me on LinkedIn or contact me by email. 
