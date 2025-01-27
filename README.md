@@ -2,21 +2,26 @@
 <em>by Kalecia McNeal</em>
 
 ## About 
-Welcome to my Portfolio! Here you will find all of my beautiful and hard work crafted by yours truly. In each folder, it will focus on web programming and website development. 
+Welcome to my Portfolio! Here you will find all of my beautiful and hard work crafted by yours truly. In each folder, it will focus on web projects. 
 
 ## List of Folders: 
+Here are the folders contained in my current Portfolio Directory: 
 
-### Web Programming: 
-This folder contains all of my coding projects in various front-end programming languages. Each folder will focus on a specific language with sub-folders containing projects ranging from beginner to advanced. 
+### Layouts: 
+This sections contains different types of layouts you might see on the web such as hero sections, grid layouts, and landing pages. For more descriptions, you can access the README here: 
+[Layouts README](/Layouts/README.md "My Layouts README")
 
-- Link to Web Programming README (here): 
-[Web-Programming](/Web-Programming/README.md "My Web Programming README")
+### Components: 
+This section is responsible for various components web developers use to collect, share and display information to users. For more information, you access the README here: 
+[Components README](/Components/README.md "My Components README")
 
-### Website Development:
-This folder contains all of my website projects using development. Each folder different areas from single pages to  building websites. 
+### Visual Elements: 
+This section contains visual elements designed to add some color to the browser to entice anyone who is viewing the web page. For more, you can find the README here: 
+[Visuals README](/Visuals/README.md "My Visuals README")
 
-- Link to Website Development README (here):
-[Web-Development](/Web-Development/README.md "My Web Development README")
+### Web Apps:  
+Lastly but not least, this section is responsible for projects that are web applications. These include static websites and simple apps. For more info you can click on the README here: 
+[Web README](/Web/README.md "My Web README")
 
 ## Closing Note: 
 Otherwise than that, thank you for viewing my portfolio! To learn more about how I make each project or ask for more clarification you can contact me below: 
