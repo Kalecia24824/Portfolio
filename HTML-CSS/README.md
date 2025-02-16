@@ -16,13 +16,13 @@ With that in mind, here are some skills the developer will gain after learning a
 Here you can find the sub-folders for the HTML/CSS folder: 
 
 ### Beginner: 
-The Beginner folder has all basic projects such as static pages, layouts and some templates you can refer back to. For more info about the Beginner Project Folder, you can access the README here: [Beginner README](/Beginner/README.md "My Beginner README")
+The Beginner folder has all basic projects such as static pages, layouts and some templates you can refer back to. For more info about the Beginner Project Folder, you can access the README here: [Beginner README](/HTML-CSS/Beginner/README.md "My Beginner README")
 
 ### Intermediate: 
-In the Intermediate folder, there will be responsive design projects, CSS animations and art along with some flexbox or grid layouts. For more info about the Intermediate Project Folder, you can access the README here: [Intermediate README](/Intermediate/README.md "My Intermediate README")
+In the Intermediate folder, there will be responsive design projects, CSS animations and art along with some flexbox or grid layouts. For more info about the Intermediate Project Folder, you can access the README here: [Intermediate README](/HTML-CSS/Intermediate/README.md "My Intermediate README")
 
 ### Professional:
-The Professional folder will contain projects such as interactive websites and custom designs. For more info about the Professional Project Folder, you can access the README here: [Professional README](/Professional/README.md "My Professional README")
+The Professional folder will contain projects such as interactive websites and custom designs. For more info about the Professional Project Folder, you can access the README here: [Professional README](/HTML-CSS/Professional/README.md "My Professional README")
 
 ## Contact Info: 
 To contact me, you can do so through my LinkedIn or email if you have any personal questions. 
