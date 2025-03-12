@@ -45,7 +45,7 @@ Thank you to freeCodeCamp for providing me with the inspiration for this project
 
 ## Final Preview: 
 Here is the final preview of the completed project: 
-![Project Screenshot](/Cafe-Menu/images/Screenshot%202025-02-20%20141526.png "My Cafe Menu Screenshot")
+![Project Screenshot](Cafe-Menu/images/Screenshot%202025-02-20%20141526.png "My Cafe Menu Screenshot")
 
 ## Contact Info:
 To contact me, you can do so through my LinkedIn or email if you have any questions about the project. 
