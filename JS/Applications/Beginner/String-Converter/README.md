@@ -22,7 +22,7 @@ For the CSS, I wanted to do a monochromatic indigo scheme. As for the JS for the
 The hard part was the DOM model since I tend to get nervous when coding with DOM elements. For that, I needed 3 variables that targeted the HTML elements to connect to the script I was using. Lastly, I made a click event lister that would display the result once the user hits submit. 
 
 Here is the final result: 
-![Final Screenshot](/Applications/Beginner/String-Converter/image/final-screenshot.png)
+![Final Screenshot](/JS/Applications/Beginner/String-Converter/image/final-screenshot.png)
 
 ## 🙏 Acknowledgements
 For this project I want to give thanks to: 

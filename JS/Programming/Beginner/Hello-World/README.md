@@ -18,7 +18,7 @@ The code was really simple. All I had to do was type "Hello, World!" in the cons
 
 Here is the final screenshot of the program: 
 
-![Final Screenshot](/Programming/Beginner/Hello-World/image/final-screenshot.png "My Final Screenshot")
+![Final Screenshot](/JS/Programming/Beginner/Hello-World/image/final-screenshot.png "My Final Screenshot")
 
 ## 🙏 Acknowledgements
 Thank you to the following acknowledgements: 

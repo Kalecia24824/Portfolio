@@ -20,7 +20,7 @@ Here is the tools and tech used to make this project:
 For this project, I wanted to start by creating a simple intro for others to know about me. So, I used some basic HTML elements such as h1, p, ul and li. Then I used some CSS to make the page more colorful. Overall the project was very easy to complete.
 
 A picture of the finished project is pasted below: 
-![Final Image](/Beginner/Personal-Bio/images/Final-Product.png "My Final Image")
+![Final Image](/HTML-CSS/Beginner/Personal-Bio/images/Final-Product.png "My Final Image")
 
 ## 🙏 Acknowledgements
 Thank you to the following resources: 

@@ -20,7 +20,7 @@ Here is the tools and tech used to make this project:
 The process started easy enough with coding the index.file using HTML. For this project, I wanted to make a blog so I used the article, main, heading and paragraph elements along with the footer at the bottom. Next came the CSS, where I wanted to create a simple campfire feel for the page so I used the colors of red, orange and white. 
 
 A picture of the finished project is pasted below: 
-![Final Image](/Beginner/Mini-Stories/images/Final-Product.png "My Final Image")
+![Final Image](/HTML-CSS/Beginner/Mini-Stories/images/Final-Product.png "My Final Image")
 
 ## 🙏 Acknowledgements
 Thank you to the following resources: 

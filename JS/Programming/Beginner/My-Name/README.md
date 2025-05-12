@@ -18,7 +18,7 @@ The process of this project was simple enough. I started the project by creating
 
 Here is the final screenshot of the program: 
 
-![Final Screenshot](/Programming/Beginner/My-Name/image/final-screenshot.png "My Final Screenshot")
+![Final Screenshot](/JS/Programming/Beginner/My-Name/image/final-screenshot.png "My Final Screenshot")
 
 ## 🙏 Acknowledgements
 Thank you to the following acknowledgements: 

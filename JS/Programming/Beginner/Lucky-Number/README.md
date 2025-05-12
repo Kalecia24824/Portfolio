@@ -20,7 +20,7 @@ The process of this project starts with figuring out how to create the function 
 
 Here is the final screenshot of the program: 
 
-![Final Screenshot](/Programming/Beginner/Lucky-Number/image/final-screenshot.png "My Final Screenshot")
+![Final Screenshot](/JS/Programming/Beginner/Lucky-Number/image/final-screenshot.png "My Final Screenshot")
 
 ## 🙏 Acknowledgements
 Thank you to the following acknowledgements: 
