@@ -1,34 +1,38 @@
-# JS Folder 
-<em>by Kalecia McNeal</em>
+# 🍵 JavaScript Folder
+This folder showcases my progress in learning JavaScript, from basic programming concepts to more complex, interactive projects. 
 
-## Intro: 
-Welcome to the JavaScript folder! JS or JavaScript is dynamic programming language that adds interactivity and functionality to web pages though various elements 
+## ✨ Goal
+There are 2 sub-folders called Applications and Programming. The application folder allows the user to experiment various web-based projects using JS. The programming folder contains different coding exercises based on the difficulty. Every project is categorized from 
 
-## Skills: 
-With that in mind, here are some skills the developer will gain after learning about JS. 
-- Fundamentals & Logic
-- DOM Manipulation
+## 🧰 Tools & Technologies
+- JavaScript (ES6+)
+- DOM API
 - Event Handling
-- Asynchronous Programming
+- Fetch API
+- Async/Await
+- Local Storage
 
-## Folder List: 
-Here you can find the sub-folders for the JS folder:
+## 📂 Sub-Folders 
 
-### Beginner: 
-For the Beginner folder, it has basic projects such as functions, to-do lists and simple DOM Manipulations. For more info about the Beginner Project Folder, you can access the README here: [Beginner README](/JS/Beginner/README.md "My Beginner README")
+### 🍎 Applications: 
+Here you can find all of my mini web-apps where I use HTML, CSS to create web apps that are focused on JavaScript. 
 
-### Intermediate: 
-In the Intermediate folder, it has projects such as form validations, interactive website and simple apps. For more info about the Intermediate Project Folder, you can access the README here: [Intermediate README](/JS/Intermediate/README.md "My Intermediate README")
+Link to Application README: [Application README](/JS/Applications/README.md "My Applications README")
 
+### 👩‍💻 Programming:
+In this folder, you can find all of my project I develop from coding JS using different concepts I learn over time.
 
-### Professional: 
-For the Professional Folder, it has API projects, complex DOM manipulations and complex apps. For more info about the Professional Project Folder, you can access the README here: [Advanced README](/JS/Professional/README.md "My Professional README")
+Link to Programming README: [Programming README](/JS/Programming/README.md "My Programming README")
 
-## Contact Info: 
-To contact me, you can do so through my LinkedIn or email if you have any personal questions. 
+## ✨ Acknowledgements 
+Each project will have some acknowledgements to certain tools, websites, and other apps. These will be listed here: 
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [Frontend Mentor](https://www.frontendmentor.io/)
+- [W3Schools](https://www.w3schools.com/)
 
-### LinkedIn: 
-[Visit Me on LinkedIn](https://www.linkedin.com/in/kalecia-mcneal/ "My LinkedIn Link")
+## 📩 Contact  
+Thank you for viewing this folder. To contact me you can use my email or myLinkedIn for more info: 
 
-### My Email: 
-[Send Me A Message](mailto:kaleciamcneal@gmail.com "My Gmail Address")
+Email: [kaleciamcneal@gmail.com](mailto:kaleciamcneal@gmail.com)  
+
+LinkedIn: [https://linkedin.com/in/kalecia-mcneal](https://linkedin.com/in/kalecia-mcneal)

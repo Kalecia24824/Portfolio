@@ -1,42 +1,37 @@
-# Beginner Folder 
+# 🌱 The Beginner Project Folder
+Welcome to the **Beginner** project sub-folder in the HTML/CSS folder! Here, you can view all of my projects which are my first steps into front-end development, focusing on understanding the basics of HTML and CSS. Each project is small but foundational.
 
-## Intro: 
-Welcome to the Beginner Folder! Here you find all of my HTML & CSS projects that use beginner coding skills. These projects are designed to introduce the coder into HTML and CSS through simple projects. Each project focuses on a different area of the web that the user may encounter. 
 
-## Skills: 
-These are the list of skills I acquired while doing these projects: 
-- HTML & CSS Basic Skills 
-- Typography & Basic Layouts 
-- Forms & Inputs 
-- Flexbox & Box Models 
-- CSS Positioning and Hover Effects
+## ✅ Skills Practiced
+These are the skills you will see in each project: 
+- Writing clean and semantic HTML
+- Applying basic CSS styles (colors, fonts, spacing)
+- Creating simple layouts using the box model
+- Writing basic JavaScript logic and functions
+- Understanding the structure of a webpage
 
-## Project List: 
-Here is the project list for the Beginner folder in the HTML/CSS section of my portfolio: 
+## 🧪 Projects in This Folder
+Here is the project list for the Beginner folder: 
 
-### Cafe Menu:
-A simple menu with price list items for drinks, food and desserts. For more info, you click on the README here: [Cafe-Menu README](Cafe-Menu/README.md "My Cafe-Menu README") 
+### Project 1: Person Bio
+Create a personal short bio to introduce yourself to the viewer.
 
-### Recipe Page: 
-A simple page containing the picture, details and instructions for a recipe. For more info, you click on the README here: [Recipe-Page README](Recipe-Page/README.md "My Recipe-Page README")
+Link to Personal Bio README: [Personal Bio README](/HTML-CSS/Beginner/Personal-Bio/README.md "My Personal Bio README")
 
-### Survey Form: 
-A simple form filled with questions designed to collect data from users. For more info, you click on the README here: [Survey-Form README](Survey-Form/README.md "My Survey-Form README")
+### Project 2: Mini Stories Blog: 
+Users are able to view short stories in the form of blogs.
+ 
+Link to Mini Stories README: [Mini Stories README](/HTML-CSS/Beginner/Mini-Stories/README.md "My Mini Stories README")
 
-### Product Review: 
-A responsive product card displaying the picture, description and price of a product. For more info, you click on the README here: [Product-Review README](Product-Review/README.md "My Product Review README") 
+## ✨ Acknowledgements 
+Each project will have some acknowledgements to certain tools, websites, and other apps. These will be listed here: 
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [Frontend Mentor](https://www.frontendmentor.io/)
+- [W3Schools](https://www.w3schools.com/)
 
-### Price Grid: 
-A web page displaying the service, information and the price in a single grid layout. For more info, you click on the README here: [Price-Grid README](Price-Grid/README.md "My Price Grid README")
+## Contact  
+Thank you for viewing this folder. To contact me you can use my email or myLinkedIn for more info: 
 
-### Nutrition Label:  
-A simple label using various forms of font styles and weights to create a nutrition label. For more info, you click on the README here: [Nutrition-Label README](Nutrition-Label/README.md "My Nutrition Label README") 
+Email: [kaleciamcneal@gmail.com](mailto:kaleciamcneal@gmail.com)  
 
-## Contact Info: 
-To contact me, you can do so through my LinkedIn or email if you have any personal questions. 
-
-### LinkedIn: 
-[Visit Me on LinkedIn](https://www.linkedin.com/in/kalecia-mcneal/ "My LinkedIn Link")
-
-### My Email: 
-[Send Me A Message](mailto:kaleciamcneal@gmail.com "My Gmail Address")
+LinkedIn: [https://linkedin.com/in/kalecia-mcneal](https://linkedin.com/in/kalecia-mcneal)

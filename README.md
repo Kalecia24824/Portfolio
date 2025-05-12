@@ -1,32 +1,41 @@
-# My Portfolio 
+# 🌸 My Front-End Development Portfolio
 <em>by Kalecia McNeal</em>
 
-## Introduction: 
-Hello, my name is Kalecia McNeal! I am a Web Developer who is looking to grow. I graduated from Florida State University with a Bachelor's in Information Technology. My goal for my portfolio is to show my progress within each language I learn and build my own projects I can be proud of! 
+Welcome to my GitHub Portfolio! This repository is a curated collection of my front-end learning projects and UI-focused work. It showcases my progress in **HTML**, **CSS**, and **JavaScript**, organized by skill level, along with complete UI projects including apps, websites, and reusable components.
 
-## Folder List: 
-Each folder is a language I use when coding. These folders will hold their own mini-projects to showcase the skills I learned. 
+## 📁 Folder Structure
 
-### HTML/CSS:
-The HTML/CSS folder is designed to hold all projects based on what the user is able to see and read. For more info you can access the README here:
-[HTML/CSS README](/HTML-CSS/README.md "My HTML-CSS README")
+### 🌐🎨 HTML and CSS 
+In this folder, these projects are focused on different skills by level: 
+- `Beginner`: Basic semantic structure, forms, lists, tables, typography, colors, box model, selectors.
+- `Intermediate`: Layouts using flexbox/grid, media elements, iframes, transitions and responsive design.
+- `Professional`: Advanced semantic usage, SEO-ready structures, animations, custom themes and accessibility-first design.
 
-### JS: 
-The JS folder holds all of my JavaScript projects which let the webpage become interactive through various event listers. For more info you can access the README here: 
-[JS README](/JS/README.md "My JS README")
+#### Links: 
+Link to Folder: [HTML-CSS Folder](/HTML-CSS)
 
-### My Projects: 
-The Projects folder will contain all of my independent projects. These projects are responsible for showing my mastery in HTML/CSS and JS. For more info you can access the README here: 
-[Projects README](/Projects/README.md "My Projects README")
+Link to HTML/CSS README: [HTML/CSS README](/HTML-CSS/README.md)
 
-## Acknowledgements: 
-Before you go, I want to thank you (the viewer) for taking some time out of your day to go over my portfolio. It really means a lot especially since I am looking for some input. 
+### ✨ JavaScript
+These interactive projects are built while learning JS logic and the DOM:
+- `Beginner`: Variables, functions, conditionals, loops.
+- `Intermediate`: DOM manipulation, events, arrays/objects.
+- `Professional`: APIs, asynchronous code, mini-apps.
 
-## Contact: 
-To contact me, you can do so through my LinkedIn or email if you have any personal questions. 
+#### Links: 
+Link to Folder: [JS Folder](/JS)
 
-### LinkedIn: 
-[Visit Me on LinkedIn](https://www.linkedin.com/in/kalecia-mcneal/ "My LinkedIn Link")
+Link to JavaScript: [JS README](/JS/README.md)
+ 
+## 📚 Acknowledgements 
+Throughout my journey there will be some acknowledgements to certain resources. These resources will be displayed in each project. In the meantime, I want to thank all of you who looked at my portfolio! 
 
-### My Email: 
-[Send Me A Message](mailto:kaleciamcneal@gmail.com "My Gmail Address")
+## 📬 Contact
+If you’d like to collaborate, give feedback, or just say hi:
+
+Email: [kaleciamcneal@gmail.com](mailto:kaleciamcneal@gmail.com)  
+
+LinkedIn: [https://linkedin.com/in/kalecia-mcneal](https://linkedin.com/in/kalecia-mcneal)
+ <br> <br>
+
+> 🌷 *This portfolio is a living space where I grow my skills and creativity—one project at a time.*

@@ -1,22 +1,22 @@
 # 🌿 The Intermediate Project Folder 
 
-Welcome to the **Intermediate** project sub-folder in the HTML/CSS folder! Here, you can view all of my projects which show my growing comfort with front-end development. I applied more structured layouts, practiced responsiveness, and worked on dynamic interactions using  a little bit of JavaScript.
+Welcome to the **Intermediate** project sub-folder in the Applications folder! In this folder, these projects are designed to resemble real-world apps that store, retrieve, and manipulate data and adjust UI accordingly.
 
 ## ✅ Skills Practiced
 These are the skills you will see in each project:
-- Responsive layouts using Flexbox and Grid
-- DOM manipulation and event handling
-- Structuring pages with accessibility in mind
-- Improving form UX
-- Working with arrays and objects in JavaScript
+- Event listeners and user interaction
+- Arrays and objects
+- Loops with real-world applications
+- String and array methods
+- Creating modular code
 
 ## 🧪 Projects in This Folder
-Here is the project list for the Beginner folder: 
-- Project 1: 
-- Project 2: 
-- Project 3: 
+Here is the project list for the Intermediate folder: 
 
-🍃 These projects reflect my progress toward creating more refined and responsive web experiences.
+#### Project 1:
+Coming Soon!
+
+🍃 These projects helped me understand how JavaScript brings web pages to life through interaction and logic.
 
 ## ✨ Acknowledgements 
 Each project will have some acknowledgements to certain tools, websites, and other apps. These will be listed here: 

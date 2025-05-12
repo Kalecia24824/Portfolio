@@ -1,0 +1,51 @@
+body {
+  background-color: #ffd4f4; /* soft light background */
+  font-family: "Helvetica Neue", sans-serif; /* clean, simple font */
+  height: 100vh;
+  color: #333; /* dark gray text for easy reading */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  padding: 1rem;
+  width: 500px; /* or use a percentage like 60% */
+  height: 450px;
+  background: linear-gradient(0deg, #f57fb4, #f57fd4, #f17ff5);
+  border-radius: 15%;
+  box-shadow: 0 0 15px #5b2352; /* glow effect */
+}
+  
+h1, h2 {
+  color: #570048; /* soft purple color for heading */
+}
+
+h1{
+  font-size: 2.8rem;
+  margin-bottom: 1rem;
+  text-align: left;
+  padding-left: 25px;
+}
+
+h2, ul, li{
+  text-align: left;
+  padding-left: 25px;
+}
+  
+ul {
+  list-style-type: none; /* remove default bullet points */
+  padding: 0;
+}
+  
+li {
+  margin: 10px 0; /* space between list items */
+}
+
+p {
+  font-size: 1.25rem;
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+  text-align: left;
+  padding-left: 25px;
+}

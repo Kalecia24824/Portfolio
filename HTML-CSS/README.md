@@ -1,34 +1,32 @@
-# HTML/CSS Folder 
-<em>by Kalecia McNeal</em>
+# 🌐 HTML & 🎨 CSS Projects
+This folder contains my learning projects focused on building and styling websites using **HTML** and **CSS**. The projects are organized by skill level—**Beginner**, **Intermediate**, and **Professional**—to show how my skills have developed over time.
 
-## Intro: 
-Welcome to the HTML and CSS Folder! HTML or HyperText Markup Language is responsible for displaying information as text on a web page. While CSS or Cascading Style Sheets allows the programmer to decorate the page using visuals. Here ypu find all of my projects that are based on the two languages. 
+## ✨ Goal
+To build a solid foundation in markup and styling before diving into dynamic front-end interactions. These projects highlight how structure and design go hand-in-hand.
 
-## Skills: 
-With that in mind, here are some skills the developer will gain after learning about HTML and CSS. 
+## 🧰 Tools & Technologies
+- HTML5 (semantic tags, forms, tables, media)
+- CSS3 (selectors, colors, box model, Flexbox, Grid, transitions, animations)
 
-- Web Page Structuring and Layout 
-- Responsive Design 
-- Styling and Animation 
-- Semantic HTML & Accessibility
-
-## Folder List: 
-Here you can find the sub-folders for the HTML/CSS folder: 
-
+## 📂 Project Folders 
 ### Beginner: 
-The Beginner folder has all basic projects such as static pages, layouts and some templates you can refer back to. For more info about the Beginner Project Folder, you can access the README here: [Beginner README](/HTML-CSS/Beginner/README.md "My Beginner README")
+- Basic HTML structure, simple styling, forms, lists, and typography.
+
+Link to Beginner README: [Beginner README](/HTML-CSS/Beginner/README.md "My Beginner README")
 
 ### Intermediate: 
-In the Intermediate folder, there will be responsive design projects, CSS animations and art along with some flexbox or grid layouts. For more info about the Intermediate Project Folder, you can access the README here: [Intermediate README](/HTML-CSS/Intermediate/README.md "My Intermediate README")
+- Responsive layouts using Flexbox and Grid, media queries, form enhancements.
 
-### Professional:
-The Professional folder will contain projects such as interactive websites and custom designs. For more info about the Professional Project Folder, you can access the README here: [Professional README](/HTML-CSS/Professional/README.md "My Professional README")
+Link to Intermediate README: [Intermediate README](/HTML-CSS/Intermediate/README.md "My Intermediate README.md")
 
-## Contact Info: 
-To contact me, you can do so through my LinkedIn or email if you have any personal questions. 
+### Professional: 
+- Full-page designs with custom animations, advanced layout systems, accessibility, and design patterns.
 
-### LinkedIn: 
-[Visit Me on LinkedIn](https://www.linkedin.com/in/kalecia-mcneal/ "My LinkedIn Link")
+Link to Professional README: [Professional README](/HTML-CSS/Professional/README.md "My Professional README")
 
-### My Email: 
-[Send Me A Message](mailto:kaleciamcneal@gmail.com "My Gmail Address")
+## Contact  
+Thank you for viewing this folder. To contact me you can use my email or myLinkedIn for more info: 
+
+Email: [kaleciamcneal@gmail.com](mailto:kaleciamcneal@gmail.com)  
+
+LinkedIn: [https://linkedin.com/in/kalecia-mcneal](https://linkedin.com/in/kalecia-mcneal)

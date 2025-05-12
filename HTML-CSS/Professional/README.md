@@ -1,26 +1,32 @@
-# Professional Folder 
+# 🌳 The Professional-Level Project Folder
+ 
+Welcome to the **Professional** project sub-folder in the HTML/CSS folder! Here, you can view all of my projects which contains more advanced and polished projects that mimic real-world scenarios. These showcase full designs, interactivity, and sometimes integrate external data or tools.
 
-## Intro: 
-Welcome to the Professional Folder! Here, you can find all of my projects that use professional skills in my portfolio. Each project is designed to focus on advanced skills such as visual websites using deeper technical and design methods.   
+ ## ✅ Skills Practiced
+These are the skills you will see in each project:
+- Creating accessible, production-ready components and layouts
+- Fetching and handling API data
+- Using animations and transitions for micro-interactions
+- Writing modular, scalable code
+- Designing with UX principles in mind
 
-## Skills: 
-These are the list of skills I acquired while doing these projects: 
-- CSS preprocessors (SASS/SCSS)
-- Performance Optimization & UI Components 
-- CSS Clipping & Masking 
-- SVG Animation & Integration 
-- Advanced Responsive Design and Animations 
+## 🧪 Projects in This Folder
+Here is the project list for the Beginner folder: 
+- Project 1: 
+- Project 2: 
+- Project 3: 
 
-## Project List: 
-Here is the project list for the Professional folder in the HTML/CSS section of my portfolio: 
+🌟 These projects reflect the level of work I aim to bring to a professional front-end role.
 
-(Coming Soon...)
+## ✨ Acknowledgements 
+Each project will have some acknowledgements to certain tools, websites, and other apps. These will be listed here: 
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [Frontend Mentor](https://www.frontendmentor.io/)
+- [W3Schools](https://www.w3schools.com/)
 
-## Contact Info: 
-To contact me, you can do so through my LinkedIn or email if you have any personal questions. 
+## Contact  
+Thank you for viewing this folder. To contact me you can use my email or myLinkedIn for more info: 
 
-### LinkedIn: 
-[Visit Me on LinkedIn](https://www.linkedin.com/in/kalecia-mcneal/ "My LinkedIn Link")
+Email: [kaleciamcneal@gmail.com](mailto:kaleciamcneal@gmail.com)  
 
-### My Email: 
-[Send Me A Message](mailto:kaleciamcneal@gmail.com "My Gmail Address")
+LinkedIn: [https://linkedin.com/in/kalecia-mcneal](https://linkedin.com/in/kalecia-mcneal)
