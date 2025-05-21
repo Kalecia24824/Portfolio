@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Simple Calculator</title>
+      <link rel="stylesheet" href="styles.css" />
+    </head>
+    <body>
+        <main>
+            <header>
+                <h1>Simple Calculator</h1>
+                <p>Please use the following inputs to calculate your problem</p>
+            </header>
+            <form>
+                <label for="first-number">First Number:</label>
+                <input type="text" id="num1" placeholder="Enter first number"> <br>
+
+                <label for="second-num">Second Number:</label>
+                <input type="text" id="num2" placeholder="Enter second number"> <br>
+
+                <label for="select">Operation: </label>
+                <select id="operation">
+                    <option value="add">Add</option>
+                    <option value="subtract">Subtract</option>
+                    <option value="multiply">Multiply</option>
+                    <option value="divide">Divide</option>
+                </select>
+            </form>
+            <button type="button" onclick="performCalculation()">Calculate</button>
+
+            <div id="result"></div>
+        </main>
+    </body>
+
+    <script src="script.js"></script>
+</html>

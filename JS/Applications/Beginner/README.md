@@ -19,22 +19,9 @@ Summary: Lets a user add a sentence or word then returns the number count along 
 #### Project 2: Simple Calculator
 Summary: Allows the user to enter numbers to calculate simple functions such as addition, subtraction, multiplication, and division.
 
-- Link to Simple Calculator README: Coming Soon!
+- Link to Simple Calculator README: [String-Converter](/Beginner/String-Converter/README.md "My String Converter README" )
+#### Project 3: Coming Soon! 
 
-#### Project 3: Number Guess
-Summary: Lets the user guess a number then reveals whether their number was correct or not.
-
-- Link to Number Guess README: Coming Soon!
-
-#### Project 4: Grade Converter
-Summary: The user adds a number then the input is converted into a letter grade from A to F. 
-
-- Link to Grade Converter README: Coming Soon!
-
-#### Project 5: Age Machine
-Summary: Asks the user for their age then returns that amount in days, weeks and months. 
-
-- Link to Project #5 README: Coming Soon!
 
 🌼 These small yet meaningful projects helped me develop problem-solving skills and learn how to “think like a developer.”
 

@@ -26,6 +26,11 @@ Asks the user for their birth year and favorite number to return their lucky num
 
 Link to Lucky Number: [Lucky-Number](/JS/Programming/Lucky-Number/README.md "My Lucky Number README")
 
+### Program 4: Number Guessing Game 
+Lets the user guess a number three times to see if they got the answer correct!
+
+Link to Number Guess: [Number-Guess](/JS/Programming/Number-Guess/README.md "My Number Guess README")
+
 
 ## ✨ Acknowledgements 
 Each project will have some acknowledgements to certain tools, websites, and other apps. These will be listed here: 

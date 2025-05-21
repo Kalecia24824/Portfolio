@@ -1,0 +1,94 @@
+*{
+  margin: auto;
+  padding: 0; 
+  box-sizing: border-box;
+}
+
+body{
+  background-color: rgb(0, 183, 255);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 3rem;
+}
+
+main{
+  background-color: rgb(203, 237, 255);
+  max-width: 450px;
+  height: auto;
+  padding: 2rem;
+  border-radius: 2rem;
+  box-shadow: 10px 10px 10px #002564;
+}
+
+p {
+  padding-bottom: 15px;
+}
+
+header, form, button, #result{
+  margin-left: 10px;
+}
+
+label {
+  font-size: 17px;
+  font-weight: 600;
+}
+
+input, select {
+  width: 200px;
+  padding: 10px;
+  margin-top: 0.5rem;
+  margin-bottom: 1.6rem;
+  border: 2px solid #c4e7fe;
+  border-radius: 1em;
+}
+
+button {
+  padding: 15px;
+  cursor: pointer;
+  border-radius: 1em;
+  background-color: #4cb4ff;
+  color: white;
+  font-size: 1em;
+}
+
+input, select, button{
+  width: 100%;
+  max-width: 300px;
+}
+
+#result {
+  margin-top: 1.5rem;
+  font-weight: 600;
+  font-size: 18px;
+  color: hsl(231, 74%, 15%);
+}
+
+@media (max-width: 500px) {
+  body {
+    padding: 1rem;
+  }
+
+  main {
+    padding: 1.5rem;
+  }
+
+  input, select, button {
+    max-width: 100%;
+    font-size: 1rem;
+  }
+
+  label {
+    font-size: 1rem;
+  }
+
+  #result {
+    font-size: 1rem;
+  }
+
+  header, form, button, #result{
+  margin-left: 5px;
+  }
+}
